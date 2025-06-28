@@ -1,29 +1,33 @@
-# TN-Education-Landscape
-Python, Excel, SQL and Powerbi .T Capstone for DA14 looking at factors shaping student performance based on data from TN education department.
+# **TN Education Landscape**
 
-Data Question
-1) How does student performance, measured by proficiency in various subjects, vary across Tennessee's districts? How does this trend vary for different demographic groups? (race, sex, age, language, population density)
-2) How does students' behavior, like discipline and attendance, relate to their performance?
-3) How do the school staff’s experience and impulse responses relate to their students' performance?
-4) Does crime prevalence affect students' performance?
+Capstone Project for DA14
+Exploring tends of student achievement in the state of Tennessee from 2021 to 2024 and analyzing key factors influencing student achievement using data from the Tennessee Department of Education.
 
-Minimum Viable Product (MVP)
+## **Technologies:** 
+Python, SQL, Power BI, Tableau, Excel
 
-The target audience for this project is policymakers and parents. For the policymakers, I plan to prepare a presentation outlining the data questions at hand, the methods deployed, and the findings through chats and descriptions.
-For parents and students selecting a district, I plan to prepare an interactive dashboard that can be used to predict the performance of a student based on relevant metrics.
+## **Data Sources**
+1)  **Tennessee Department of Education:** 
+- Student assessment, discipline, attendance, educator count, and educator experience data
+	<a href-" https://www.tn.gov/education/districts/federal-programs-and-oversight/data/data-downloads.html"> TN Department of Education Data Download and Requests </a> 
+2)  **Crime Rate:**
+	<a href-"https://crimeinsight.tbi.tn.gov/public/View/dispview.aspx?ReportId=20">Tennessee Bureau of Investigation</a>  
+3)  **Population Density:**
+	<a href-"https://www.tennessee-demographics.com/counties_by_population">Tennessee Demographics</a>  
+4)  **Mean Household Income:**
+	<a href-"https://fred.stlouisfed.org/release/tables?eid=268584&rid=175">Federal Reserve Economic Data (FRED)</a>  
+## **Key Questions**
+1)  How does student performance—measured by achievement rate—vary across Tennessee school districts?
+- How do trends differ by student subgroups over the 2021–2022 academic year?
+2)  What is the relationship between student behavior (e.g., discipline incidents, attendance) and academic performance?
+4)  How do educator factors—such as experience levels, student-teacher ratio, retention rate, and percentage living in poverty—correlate with student achievement?
+5)  Do broader county-level conditions (crime rate, household income, population density) influence district-level student performance?
 
-Schedule (through 4/7/2025)
+## **Minimum Viable Product (MVP)**
+1)  **Data Storytelling:**
+- A structured presentation outlining key questions, methods, and findings using charts, summaries, and insights.
+<a href-"https://docs.google.com/presentation/d/1sYn36zHHWwIDopw9O87XpErx7Li2OF9CS5_AHct3pDY/edit?slide=id.g36a3427fde5_0_0#slide=id.g36a3427fde5_0_0">Presentation</a>
 
-1. Get the Data (5/12)
-2. Clean & Explore the Data (5/31)
-3. Create a Presentation of your Analysis (6/15)
--Should be a presentation, but could include a Jupyter Notebook or dashboard
-in Excel, Tableau, or Power BI
-4. Internal demos (6/21)
-5. Demo Day!! (4/7)
-
-Data sources:
-a)Students and school staff data https://www.tn.gov/education/districts/federal-programs-and-oversight/data/data-downloads.html
-b)Crime incidence data
-https://data.nashville.gov/datasets/d747436243e9439e968fce056545016a_0/explore?location=36.185155%2C-86.784950%2C9.11
-c)Census data: https://www.data.gov/
+2)  **Interactive Dashboard:**
+- Designed for families exploring school districts, this tool predicts student achievement outcomes based on relevant input variables.
+<a href-"https://app.powerbi.com/groups/me/reports/9718c9a2-3072-4c2d-93a6-c10178a148bb/ReportSection02f16914086b2139caee?experience=power-bi">PowerBi Dashboard</a>
