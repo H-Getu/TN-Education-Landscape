@@ -3,8 +3,6 @@
 Capstone Project for DA14
 Exploring tends of student achievement in the state of Tennessee from 2021 to 2024 and analyzing key factors influencing student achievement using data from the Tennessee Department of Education.
 
-## 🛠️ **Tools Used:** 
-Python,  Power BI, Tableau, Excel
 
 ## 📂 **Data Sources**
 1)  **Tennessee Department of Education:** 
@@ -24,20 +22,24 @@ Python,  Power BI, Tableau, Excel
 4)  How do educator factors—such as experience levels, student-teacher ratio, retention rate, and percentage living in poverty—correlate with student achievement?
 5)  Do broader county-level conditions (crime rate, household income, population density) influence district-level student performance?
 
-## 📊 **Minimum Viable Product (MVP)**
-1)  **Data Storytelling:**
-- A structured [presentation ]outlining key questions, methods, and findings using charts, summaries, and insights.
-(https://docs.google.com/presentation/d/1sYn36zHHWwIDopw9O87XpErx7Li2OF9CS5_AHct3pDY/edit?slide=id.g36a3427fde5_0_0#slide=id.g36a3427fde5_0_0)
-
-2)  **Interactive Dashboard:**
-- [Powerbi Dashboard] designed for families exploring school districts, this tool predicts student achievement outcomes based on relevant input variables.
-(https://app.powerbi.com/groups/me/reports/9718c9a2-3072-4c2d-93a6-c10178a148bb/ReportSection02f16914086b2139caee?experience=power-bi)
+## 🛠️ **Tools Used:** 
+Python,  Power BI, Tableau, Excel
 
 ## 🧪 Methodology
 - Data Cleaning
 - EDA
 - Visualizations
 - Summary
+
+## 📈 **##Products (MVP)**
+
+1)  **Data Storytelling:**
+- A structured [presentation](https://docs.google.com/presentation/d/1sYn36zHHWwIDopw9O87XpErx7Li2OF9CS5_AHct3pDY/edit?slide=id.g36a3427fde5_0_0#slide=id.g36a3427fde5_0_0)outlining key questions, methods, and findings using charts, summaries, and insights.
+
+2)  **Interactive Dashboard:**
+- [Powerbi Dashboard](https://app.powerbi.com/groups/me/reports/9718c9a2-3072-4c2d-93a6-c10178a148bb/ReportSection02f16914086b2139caee?experience=power-bi) designed for families exploring school districts, this tool predicts student achievement outcomes based on relevant input variables.
+
+
 
 ## 🚀 How to Run
 1. Clone repo  
