@@ -39,13 +39,6 @@ Python,  Power BI, Tableau, Excel
 2)  **Interactive Dashboard:**
 - [Powerbi Dashboard](https://app.powerbi.com/groups/me/reports/9718c9a2-3072-4c2d-93a6-c10178a148bb/ReportSection02f16914086b2139caee?experience=power-bi) designed for families exploring school districts, this tool predicts student achievement outcomes based on relevant input variables.
 
-
-
-## 🚀 How to Run
-1. Clone repo  
-2. Install packages  
-3. Open notebook or report
-
 ## 🙏 Acknowledgements
 I thank my  NSS Instructors Rob Schulteis, Jonathon Hankins &  Doug Kaplan.
 
