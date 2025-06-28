@@ -31,7 +31,7 @@ Python,  Power BI, Tableau, Excel
 - Visualizations
 - Summary
 
-## 📈 **##Products (MVP)**
+## 📈 **Products (MVP)**
 
 1)  **Data Storytelling:**
 - A structured [presentation](https://docs.google.com/presentation/d/1sYn36zHHWwIDopw9O87XpErx7Li2OF9CS5_AHct3pDY/edit?slide=id.g36a3427fde5_0_0#slide=id.g36a3427fde5_0_0)outlining key questions, methods, and findings using charts, summaries, and insights.
