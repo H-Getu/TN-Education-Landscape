@@ -34,10 +34,10 @@ Python,  Power BI, Tableau, Excel
 ## 📈 **Products of the Project**
 
 1)  **Data Storytelling:**
-- A structured [presentation](https://docs.google.com/presentation/d/1sYn36zHHWwIDopw9O87XpErx7Li2OF9CS5_AHct3pDY/edit?slide=id.g36a3427fde5_0_0#slide=id.g36a3427fde5_0_0)outlining key questions, methods, and findings using charts, summaries, and insights.
+- A structured [presentation ](https://docs.google.com/presentation/d/1sYn36zHHWwIDopw9O87XpErx7Li2OF9CS5_AHct3pDY/edit?slide=id.g36a3427fde5_0_0#slide=id.g36a3427fde5_0_0)outlining key questions, methods, and findings using charts, summaries, and insights.
 
 2)  **Interactive Dashboard:**
-- [Powerbi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzc1ZTYwZWMtMTQyNC00MjVjLWIzZjUtMjAwYjA3NmNlZTg1IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9) designed for families exploring school districts, this tool predicts student achievement outcomes based on relevant input variables.
+- [Powerbi Dashboard ](https://app.powerbi.com/view?r=eyJrIjoiYzc1ZTYwZWMtMTQyNC00MjVjLWIzZjUtMjAwYjA3NmNlZTg1IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9) designed for families exploring school districts, this tool predicts student achievement outcomes based on relevant input variables.
 
 
 
