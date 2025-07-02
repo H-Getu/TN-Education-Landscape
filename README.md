@@ -31,13 +31,20 @@ Python,  Power BI, Tableau, Excel
 - Visualizations
 - Summary
 
-## 📈 **Products (MVP)**
+## 📈 **Products of the Project**
 
 1)  **Data Storytelling:**
 - A structured [presentation](https://docs.google.com/presentation/d/1sYn36zHHWwIDopw9O87XpErx7Li2OF9CS5_AHct3pDY/edit?slide=id.g36a3427fde5_0_0#slide=id.g36a3427fde5_0_0)outlining key questions, methods, and findings using charts, summaries, and insights.
 
 2)  **Interactive Dashboard:**
-- [Powerbi Dashboard](https://app.powerbi.com/groups/me/reports/9718c9a2-3072-4c2d-93a6-c10178a148bb/ReportSection02f16914086b2139caee?experience=power-bi) designed for families exploring school districts, this tool predicts student achievement outcomes based on relevant input variables.
+- [Powerbi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzc1ZTYwZWMtMTQyNC00MjVjLWIzZjUtMjAwYjA3NmNlZTg1IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9) designed for families exploring school districts, this tool predicts student achievement outcomes based on relevant input variables.
+
+
+
+## 🚀 How to Run
+1. Clone repo  
+2. Install packages  
+3. Open notebook or report
 
 ## 🙏 Acknowledgements
 I thank my  NSS Instructors Rob Schulteis, Jonathon Hankins &  Doug Kaplan.
